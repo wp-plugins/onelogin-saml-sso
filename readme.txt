@@ -1,6 +1,5 @@
 === Plugin Name ===
 Contributors: onelogin
-Donate link: http://example.com/
 Tags: sso, saml, single sign on, password, active directory, ldap, identity, onelogin, yubico, yubikey, vip access, otp
 Requires at least: 2.0.2
 Tested up to: 3.0.4
@@ -10,7 +9,7 @@ This plugin provides single sign-on via SAML and gives users one-click access to
 
 == Description ==
 
-This SAML plugin eliminates passwords and allows you to authenticate users against your existing Active Directory or LDAP server as well increase security using YubiKeys or VeriSign VIP Access via OneLogin. OneLogin is pre-integrated with thousands of apps and handles all of your SSO needs in the cloud and behind the firewall.
+This SAML plugin eliminates passwords and allows you to authenticate WordPress users (typically editors) against your existing Active Directory or LDAP server as well increase security using YubiKeys or VeriSign VIP Access via OneLogin. OneLogin is pre-integrated with thousands of apps and handles all of your SSO needs in the cloud and behind the firewall.
 
 * Eliminate passwords in WordPress
 * Allow users to sign into WordPress with their *Active Directory* or *LDAP* credentials
@@ -29,7 +28,6 @@ In order to use this plugin, you will need a SAML identity provider. You can sig
 
 = 1.0.0 =
 * First version.
-
 
 Here's a link to [WordPress](http://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
 Titles are optional, naturally.
