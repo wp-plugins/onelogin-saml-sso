@@ -28,13 +28,7 @@ In order to use this plugin, you will need a SAML identity provider. You can sig
 = 1.0.0 =
 * First version.
 
-Here's a link to [WordPress](http://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
-Titles are optional, naturally.
-
-[markdown syntax]: http://daringfireball.net/projects/markdown/syntax
-            "Markdown is what the parser uses to process much of the readme file"
-
-Markdown uses email style notation for blockquotes and I've been told:
-> Asterisks for *emphasis*. Double it up  for **strong**.
+= 1.0.1 =
+* Fixed installation issue.
 
 `<?php code(); // goes in backticks ?>`
