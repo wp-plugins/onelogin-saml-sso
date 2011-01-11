@@ -13,14 +13,13 @@ This SAML plugin eliminates passwords and allows you to authenticate WordPress u
 
 * Eliminate passwords in WordPress
 * Allow users to sign into WordPress with their *Active Directory* or *LDAP* credentials
-* Give users one-click access from *SharePoint* or intranet
-* Increase security using two-factor authentication from *Yubico* or *VeriSign* or browser PKI certificates
-* Easily share logins
+* Give users one-click access from your intranet
+* Increase security using browser PKI certificates or two-factor authentication from *Yubico* or *VeriSign*
 * Easily prevent access from former employees and contractors
 
 == Installation ==
 
-In order to use this plugin, you will need a SAML identity provider. You can sign up for OneLogin's service at www.onelogin.com. Detailed configuration instructions can be found in OneLogin's support forums.
+In order to use this plugin, you will need a SAML identity provider. You can sign up for a free OneLogin trial at www.onelogin.com. Detailed configuration instructions can be found in OneLogin's support forums.
 
   http://support.onelogin.com/entries/383540
 
