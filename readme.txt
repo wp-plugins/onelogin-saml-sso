@@ -38,5 +38,3 @@ This SAML plugin eliminates passwords and allows you to authenticate WordPress u
 
 = 2.1.1 =
  * Fix bug introduced in the reimplementation
-
-`<?php code(); // goes in backticks ?>`
