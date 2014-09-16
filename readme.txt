@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: onelogin
 Tags: sso, saml, single sign on, password, active directory, ldap, identity, onelogin, yubico, yubikey, vip access, otp
-Requires at least: 2.0.2
+Requires at least: 2.1.2
 Tested up to: 3.5.1
 Stable tag: trunk
 
