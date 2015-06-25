@@ -63,3 +63,4 @@ This SAML plugin eliminates passwords and allows you to authenticate WordPress u
  * SessionIndex and nameID is now passed to the IdP
  * Now retrieveParametersFromServer can be activated
  * Improve the role/group support when multiple values on a single attribute statement.
+ * Assign wordpress default role if no role was provided by OneLogin
